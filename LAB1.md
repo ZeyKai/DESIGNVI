@@ -17,3 +17,9 @@
 ### 3. I believe this is the case because unlike the HAlf ADDER code which ended in 5 nano seconds, this code ended in a unreal 8543723 nano seconds. I have provided picture below. (Note: The command prompt code does not show the analyzing and solution because my computer would freeze up after doing that, causing me to close the command prompt and reopen it to actually run the gtkwave code, which is why that is the only code you can see in the command prompt) ⤵️
 ![D FLIP FLOP](https://user-images.githubusercontent.com/97994537/215577135-967c4384-fc33-4d75-9a7c-449065c64d78.PNG)
 ### 4. In the future I may take this code down and redo it trying to use a smaller scale so the results can come out within 100 nano seconds which I believe would make them easier to understand and analyze. 
+
+# **D_FLIP_FLIP_UPDATE**
+
+## I have come to see that we were able to just use the code given under the Professor's GitHub page, I am upset to have found it after having doing everything from scratch with just the internet for an hour, but I am glad to have gotten some experience on it. Below is the screenshot for the D-FLIP_FLOP with the code provided ⤵️
+![image](https://user-images.githubusercontent.com/97994537/215580177-969f5924-1417-444d-a406-966c97e6a307.png)
+## NOTE: It is refreshing to see the code stop at 210 nanoseconds and compared to my previous D FLIP FLOP example, it is easy to analyze
