@@ -23,3 +23,8 @@
 ## I have come to see that we were able to just use the code given under the Professor's GitHub page, I am upset to have found it after having doing everything from scratch with just the internet for an hour, but I am glad to have gotten some experience on it. Below is the screenshot for the D-FLIP_FLOP with the code provided ⤵️
 ![image](https://user-images.githubusercontent.com/97994537/215580177-969f5924-1417-444d-a406-966c97e6a307.png)
 ## NOTE: It is refreshing to see the code stop at 210 nanoseconds and compared to my previous D FLIP FLOP example, it is easy to analyze
+
+
+# **HALF_ADDER_UPDATE** 
+
+## I went ahead to do the same with the Half Adder example but found that the Professor and the youtube video I watched used the same code, thus leading to the same results. 
