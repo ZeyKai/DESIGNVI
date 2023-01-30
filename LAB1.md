@@ -7,3 +7,13 @@
 5. ![image](https://user-images.githubusercontent.com/97994537/215570057-c712d110-4c9f-45e4-8a9e-8683e2026119.png)
 ![image](https://user-images.githubusercontent.com/97994537/215570092-3150bde1-1182-4ddf-bcd3-5fc3a37086a9.png)
 ### 6. This code shows an example using two inputs ( a and b) and two outputs ( c and o) , these variables would be manipulated to give us different outputs given different inputs with the help of "xor" and "and".
+
+
+
+# **D_FLIP_FLOP**
+
+### 1. Again, I watched a youtube video where I followed along on how to construct the D FLIP FLOP code
+### 2. There was a big difference in the memory space this took, as my computer would get very loud when I was creating the .vcd file at the end to be opened by gtkwave.
+### 3. I believe this is the case because unlike the HAlf ADDER code which ended in 5 nano seconds, this code ended in a unreal 8543723 nano seconds. I have provided picture below. (Note: The command prompt code does not show the analyzing and solution because my computer would freeze up after doing that, causing me to close the command prompt and reopen it to actually run the gtkwave code, which is why that is the only code you can see in the command prompt) ⤵️
+![D FLIP FLOP](https://user-images.githubusercontent.com/97994537/215577135-967c4384-fc33-4d75-9a7c-449065c64d78.PNG)
+### 4. In the future I may take this code down and redo it trying to use a smaller scale so the results can come out within 100 nano seconds which I believe would make them easier to understand and analyze. 
